@@ -1,0 +1,39 @@
+.titulo {
+    color: #f4decb;
+    font-size: 40px;;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 3px;
+}
+
+.input1 {
+    margin-top: 15px;
+}
+
+.input2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 150px;
+    height: 45px;
+    background-color: #d9b310;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0b3c5d;
+}
+
+h2 {
+    margin-left: -80px;
+}
